@@ -1,0 +1,12 @@
+Subject: Password Reset Request
+
+Dear User,
+
+We received a request to reset your account password. If this was not you, please secure your account immediately.
+
+Reset your password here:
+http://account-security-reset[.]net
+
+If you do not take action, your account may be compromised.
+
+Support Team
