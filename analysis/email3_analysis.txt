@@ -1,0 +1,32 @@
+Email Subject: Delivery Failed – Action Required
+
+1. Sender Analysis:
+- No identifiable sender or official delivery company name.
+- No domain verification present.
+
+2. Content Analysis:
+- Creates urgency related to a failed delivery.
+- Uses a common scenario (parcel delivery) to appear legitimate.
+- Generic greeting ("Dear User") reduces authenticity.
+
+3. Link Analysis:
+- URL: http://delivery-update-center[.]info
+- Domain is not associated with known delivery services (like Amazon, Flipkart).
+- Likely a phishing site to collect user information.
+
+4. Phishing Indicators Identified:
+- Suspicious URL domain
+- Lack of official branding
+- Generic greeting
+- Urgency to update information
+
+5. Risk Classification:
+Phishing
+
+6. Attack Explanation:
+This email attempts to trick users into updating delivery details. The link likely leads to a fake page where users are asked to enter personal or payment information.
+
+7. Potential Impact:
+- Theft of personal details (address, phone number)
+- Financial fraud if payment details are entered
+- Exposure to further phishing attacks

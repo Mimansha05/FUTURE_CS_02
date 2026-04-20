@@ -1,0 +1,32 @@
+Email Subject: Congratulations! You Are Selected
+
+1. Sender Analysis:
+- Sender identity is unclear and not from an official company domain.
+- No company details or verification information provided.
+
+2. Content Analysis:
+- Uses positive emotion and excitement ("Congratulations", "You are selected").
+- Requests personal information and payment, which is unusual in legitimate hiring processes.
+- No proper job details or company background provided.
+
+3. Link Analysis:
+- URL: http://job-verification-portal[.]xyz
+- The domain appears suspicious and not linked to any real organization.
+- Likely used to collect personal data or payment.
+
+4. Phishing Indicators Identified:
+- Request for payment (₹1500 fee)
+- Suspicious domain (.xyz often used in scams)
+- Lack of company verification
+- Generic and vague job offer
+
+5. Risk Classification:
+Phishing
+
+6. Attack Explanation:
+This attack targets job seekers by offering fake employment opportunities. The attacker tries to collect money and sensitive personal information under the pretext of a job process.
+
+7. Potential Impact:
+- Financial loss due to fake fees
+- Exposure of personal information
+- Risk of identity fraud

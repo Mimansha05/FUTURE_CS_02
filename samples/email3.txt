@@ -1,0 +1,10 @@
+Subject: Delivery Failed – Action Required
+
+Dear User,
+
+Your package delivery was unsuccessful due to incorrect address. Please update your details to reschedule delivery.
+
+Update here:
+http://delivery-update-center[.]info
+
+Delivery Support

@@ -1,0 +1,33 @@
+Email Subject: Urgent: Your Account Will Be Locked
+
+1. Sender Analysis:
+- The sender identity is not clearly mentioned.
+- No official domain (such as a bank or service provider) is visible.
+- This makes the email untrustworthy and likely spoofed.
+
+2. Content Analysis:
+- Uses urgent and threatening language ("must verify immediately", "account will be locked").
+- Creates fear to pressure the user into acting quickly.
+- Uses a generic greeting ("Dear Customer") instead of a personalized name.
+
+3. Link Analysis:
+- URL: http://secure-account-verify[.]com
+- The domain is not associated with any legitimate organization.
+- Likely redirects to a fake login page designed to steal credentials.
+
+4. Phishing Indicators Identified:
+- Urgency and fear-based messaging
+- Suspicious and non-official URL
+- Generic greeting
+- Lack of official branding or contact details
+
+5. Risk Classification:
+Phishing
+
+6. Attack Explanation:
+This is a phishing attack that attempts to trick users into believing their account is at risk. The attacker wants the user to click the link and enter sensitive information like login credentials on a fake website.
+
+7. Potential Impact:
+- Unauthorized access to user accounts
+- Financial loss if banking details are compromised
+- Identity theft

@@ -1,0 +1,13 @@
+Subject: ⚠️ Urgent: Your Account Will Be Locked
+
+Dear Customer,
+
+We detected unusual activity in your account. To prevent suspension, you must verify your identity immediately.
+
+Click here to verify:
+http://secure-account-verify[.]com
+
+Failure to act within 24 hours will result in permanent account lock.
+
+Regards,  
+Security Team
